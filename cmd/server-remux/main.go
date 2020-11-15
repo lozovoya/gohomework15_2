@@ -4,9 +4,8 @@ import (
 	"encoding/json"
 	"log"
 	"net/http"
-
-	"netology/webinar-rest/pkg/core"
-	"netology/webinar-rest/pkg/remux"
+	"remogithub.com/lozovoya/gohomework15_2/pkg/core"
+	"remogithub.com/lozovoya/gohomework15_2/pkg/remux"
 )
 
 func main() {
